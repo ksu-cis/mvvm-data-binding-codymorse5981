@@ -6,4 +6,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="CashRegister">
+      <HintPath>E:\School\KSTATE\CIS400\PointOfSale\CashRegister.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
